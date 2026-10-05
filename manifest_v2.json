@@ -70,54 +70,59 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.0.0",
-      "file_name": "downloads/rw_com.Dreamqiu.parsecs.release.1.0.0-xmrw5.rpk",
-      "versionCode": 101
+      "version": "1.1",
+      "file_name": "downloads/rw_com.Dreamqiu.parsecs.release.1.1.rpk",
+      "versionCode": 110
     },
     "xmrw5xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/rw_com.Dreamqiu.parsecs.release.1.0.0-xmrw5xring.rpk",
-      "versionCode": 101
+      "version": "1.1",
+      "file_name": "downloads/rw_com.Dreamqiu.parsecs.release.1.1.rpk",
+      "versionCode": 110
     },
     "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/rw_com.Dreamqiu.parsecs.release.1.0.0-xmrw6.rpk",
-      "versionCode": 101
+      "version": "1.1",
+      "file_name": "downloads/rw_com.Dreamqiu.parsecs.release.1.1.rpk",
+      "versionCode": 110
     },
     "xmb10": {
-      "version": "1.0.18",
-      "file_name": "downloads/10_com.Dreamqiu.parsecs.release.1.0.18-xmb10.rpk",
-      "versionCode": 108
+      "version": "1.1",
+      "file_name": "downloads/10_com.Dreamqiu.parsecs.release.1.1.rpk",
+      "versionCode": 110
     },
     "xmb10nfc": {
-      "version": "1.0.18",
-      "file_name": "downloads/10_com.Dreamqiu.parsecs.release.1.0.18-xmb10nfc.rpk",
-      "versionCode": 108
+      "version": "1.1",
+      "file_name": "downloads/10_com.Dreamqiu.parsecs.release.1.1.rpk",
+      "versionCode": 110
     },
     "xmb10p": {
-      "version": "1.0.0",
-      "file_name": "downloads/pro_com.Dreamqiu.parsecs.release.1.0.0-xmb10p.rpk",
-      "versionCode": 101
+      "version": "1.1",
+      "file_name": "downloads/pro_com.Dreamqiu.parsecs.release.1.1.rpk",
+      "versionCode": 110
     },
     "xmb11": {
-      "version": "1.0.18",
-      "file_name": "downloads/10_com.Dreamqiu.parsecs.release.1.0.18-xmb11.rpk",
-      "versionCode": 108
+      "version": "1.1",
+      "file_name": "downloads/10_com.Dreamqiu.parsecs.release.1.1.rpk",
+      "versionCode": 110
     },
     "xmb11nfc": {
-      "version": "1.0.18",
-      "file_name": "downloads/10_com.Dreamqiu.parsecs.release.1.0.18-xmb11nfc.rpk",
-      "versionCode": 108
+      "version": "1.1",
+      "file_name": "downloads/10_com.Dreamqiu.parsecs.release.1.1.rpk",
+      "versionCode": 110
     },
     "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "downloads/pro_com.Dreamqiu.parsecs.release.1.0.0-xmb9p.rpk",
-      "versionCode": 101
+      "version": "1.1",
+      "file_name": "downloads/pro_com.Dreamqiu.parsecs.release.1.1.rpk",
+      "versionCode": 110
     },
     "xmb9": {
-      "version": "1.0.18",
-      "file_name": "downloads/9_com.Dreamqiu.parsecs.release.1.0.18-xmb9.rpk",
-      "versionCode": 108
+      "version": "1.1",
+      "file_name": "downloads/9_com.Dreamqiu.parsecs.release.1.1.rpk",
+      "versionCode": 110
+    },
+    "vivowgt2": {
+      "version": "1.1",
+      "file_name": "downloads/com.Dreamqiu.parsecs.release.production.1.1.rpk",
+      "versionCode": 110
     }
   },
   "ext": {}
