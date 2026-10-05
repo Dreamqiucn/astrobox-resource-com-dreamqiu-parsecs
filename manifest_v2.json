@@ -70,19 +70,37 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.1",
-      "file_name": "downloads/rw_com.Dreamqiu.parsecs.release.1.1.rpk",
-      "versionCode": 110
+      "version": "1.1.1",
+      "file_name": "downloads/rw_com.Dreamqiu.parsecs.release.1.1.1.rpk",
+      "versionCode": 111,
+      "updatelogs": [
+        {
+          "version": "1.1.1",
+          "content": "修复关于页和飞船页花屏bug"
+        }
+      ]
     },
     "xmrw5xring": {
       "version": "1.1",
       "file_name": "downloads/rw_com.Dreamqiu.parsecs.release.1.1.rpk",
-      "versionCode": 110
+      "versionCode": 110,
+      "updatelogs": [
+        {
+          "version": "1.1",
+          "content": "修复关于页和飞船页花屏bug"
+        }
+      ]
     },
     "xmrw6": {
-      "version": "1.1",
-      "file_name": "downloads/rw_com.Dreamqiu.parsecs.release.1.1.rpk",
-      "versionCode": 110
+      "version": "1.1.1",
+      "file_name": "downloads/rw_com.Dreamqiu.parsecs.release.1.1.1.rpk",
+      "versionCode": 111,
+      "updatelogs": [
+        {
+          "version": "1.1.1",
+          "content": "修复关于页和飞船页花屏bug"
+        }
+      ]
     },
     "xmb10": {
       "version": "1.1",
@@ -95,9 +113,15 @@
       "versionCode": 110
     },
     "xmb10p": {
-      "version": "1.1",
-      "file_name": "downloads/pro_com.Dreamqiu.parsecs.release.1.1.rpk",
-      "versionCode": 110
+      "version": "1.1.1",
+      "file_name": "downloads/pro_com.Dreamqiu.parsecs.release.1.1.1.rpk",
+      "versionCode": 111,
+      "updatelogs": [
+        {
+          "version": "1.1.1",
+          "content": "修复关于页和飞船页花屏bug"
+        }
+      ]
     },
     "xmb11": {
       "version": "1.1",
@@ -110,9 +134,15 @@
       "versionCode": 110
     },
     "xmb9p": {
-      "version": "1.1",
-      "file_name": "downloads/pro_com.Dreamqiu.parsecs.release.1.1.rpk",
-      "versionCode": 110
+      "version": "1.1.1",
+      "file_name": "downloads/pro_com.Dreamqiu.parsecs.release.1.1.1.rpk",
+      "versionCode": 111,
+      "updatelogs": [
+        {
+          "version": "1.1.1",
+          "content": "修复关于页和飞船页花屏bug"
+        }
+      ]
     },
     "xmb9": {
       "version": "1.1",
