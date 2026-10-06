@@ -103,14 +103,26 @@
       ]
     },
     "xmb10": {
-      "version": "1.1",
-      "file_name": "downloads/10_com.Dreamqiu.parsecs.release.1.1.rpk",
-      "versionCode": 110
+      "version": "1.1.1",
+      "file_name": "downloads/10_com.Dreamqiu.parsecs.release.1.1.1.rpk",
+      "versionCode": 111,
+      "updatelogs": [
+        {
+          "version": "1.1.1",
+          "content": "修复点开远征页面重启的bug"
+        }
+      ]
     },
     "xmb10nfc": {
-      "version": "1.1",
-      "file_name": "downloads/10_com.Dreamqiu.parsecs.release.1.1.rpk",
-      "versionCode": 110
+      "version": "1.1.1",
+      "file_name": "downloads/10_com.Dreamqiu.parsecs.release.1.1.1.rpk",
+      "versionCode": 111,
+      "updatelogs": [
+        {
+          "version": "1.1.1",
+          "content": "修复点开远征页面重启的bug"
+        }
+      ]
     },
     "xmb10p": {
       "version": "1.1.1",
@@ -126,12 +138,18 @@
     "xmb11": {
       "version": "1.1",
       "file_name": "downloads/10_com.Dreamqiu.parsecs.release.1.1.rpk",
-      "versionCode": 110
+      "versionCode": 110,
+      "updatelogs": [
+        {
+          "version": "1.1.1",
+          "content": "修复点开远征页面重启的bug"
+        }
+      ]
     },
     "xmb11nfc": {
-      "version": "1.1",
-      "file_name": "downloads/10_com.Dreamqiu.parsecs.release.1.1.rpk",
-      "versionCode": 110
+      "version": "1.1.1",
+      "file_name": "downloads/10_com.Dreamqiu.parsecs.release.1.1.1.rpk",
+      "versionCode": 111
     },
     "xmb9p": {
       "version": "1.1.1",
@@ -145,9 +163,15 @@
       ]
     },
     "xmb9": {
-      "version": "1.1",
-      "file_name": "downloads/9_com.Dreamqiu.parsecs.release.1.1.rpk",
-      "versionCode": 110
+      "version": "1.1.1",
+      "file_name": "downloads/9_com.Dreamqiu.parsecs.release.1.1.1.rpk",
+      "versionCode": 111,
+      "updatelogs": [
+        {
+          "version": "1.1.1",
+          "content": "修复点开远征页面重启的bug"
+        }
+      ]
     },
     "vivowgt2": {
       "version": "1.1",
