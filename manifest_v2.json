@@ -70,10 +70,14 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.1.1",
-      "file_name": "downloads/rw_com.Dreamqiu.parsecs.release.1.1.1.rpk",
-      "versionCode": 111,
+      "version": "1.2",
+      "file_name": "downloads/rw_com.Dreamqiu.parsecs.release.1.2.rpk",
+      "versionCode": 120,
       "updatelogs": [
+        {
+          "version": "1.2",
+          "content": "新增生存模式；\n修复事件页不出现选项的bug"
+        },
         {
           "version": "1.1.1",
           "content": "修复关于页和飞船页花屏bug"
@@ -81,10 +85,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "1.1",
-      "file_name": "downloads/rw_com.Dreamqiu.parsecs.release.1.1.rpk",
-      "versionCode": 110,
+      "version": "1.2",
+      "file_name": "downloads/rw_com.Dreamqiu.parsecs.release.1.2.rpk",
+      "versionCode": 120,
       "updatelogs": [
+        {
+          "version": "1.2",
+          "content": "新增生存模式；\n\n修复事件页不出现选项的bug"
+        },
         {
           "version": "1.1",
           "content": "修复关于页和飞船页花屏bug"
@@ -92,10 +100,14 @@
       ]
     },
     "xmrw6": {
-      "version": "1.1.1",
-      "file_name": "downloads/rw_com.Dreamqiu.parsecs.release.1.1.1.rpk",
-      "versionCode": 111,
+      "version": "1.2",
+      "file_name": "downloads/rw_com.Dreamqiu.parsecs.release.1.2.rpk",
+      "versionCode": 120,
       "updatelogs": [
+        {
+          "version": "1.2",
+          "content": "新增生存模式；\n\n修复事件页不出现选项的bug"
+        },
         {
           "version": "1.1.1",
           "content": "修复关于页和飞船页花屏bug"
@@ -103,10 +115,14 @@
       ]
     },
     "xmb10": {
-      "version": "1.1.1",
-      "file_name": "downloads/10_com.Dreamqiu.parsecs.release.1.1.1.rpk",
-      "versionCode": 111,
+      "version": "1.2",
+      "file_name": "downloads/10_com.Dreamqiu.parsecs.release.1.2.rpk",
+      "versionCode": 120,
       "updatelogs": [
+        {
+          "version": "1.2",
+          "content": "新增生存模式；\n修复事件页不出现选项的bug"
+        },
         {
           "version": "1.1.1",
           "content": "修复点开远征页面重启的bug"
@@ -114,10 +130,14 @@
       ]
     },
     "xmb10nfc": {
-      "version": "1.1.1",
-      "file_name": "downloads/10_com.Dreamqiu.parsecs.release.1.1.1.rpk",
-      "versionCode": 111,
+      "version": "1.2",
+      "file_name": "downloads/10_com.Dreamqiu.parsecs.release.1.2.rpk",
+      "versionCode": 120,
       "updatelogs": [
+        {
+          "version": "1.2",
+          "content": "新增生存模式；\n修复事件页不出现选项的bug"
+        },
         {
           "version": "1.1.1",
           "content": "修复点开远征页面重启的bug"
@@ -125,10 +145,14 @@
       ]
     },
     "xmb10p": {
-      "version": "1.1.1",
-      "file_name": "downloads/pro_com.Dreamqiu.parsecs.release.1.1.1.rpk",
-      "versionCode": 111,
+      "version": "1.2",
+      "file_name": "downloads/pro_com.Dreamqiu.parsecs.release.1.2.rpk",
+      "versionCode": 120,
       "updatelogs": [
+        {
+          "version": "1.2",
+          "content": "新增生存模式；\n修复事件页不出现选项的bug"
+        },
         {
           "version": "1.1.1",
           "content": "修复关于页和飞船页花屏bug"
@@ -136,10 +160,14 @@
       ]
     },
     "xmb11": {
-      "version": "1.1",
-      "file_name": "downloads/10_com.Dreamqiu.parsecs.release.1.1.rpk",
-      "versionCode": 110,
+      "version": "1.2",
+      "file_name": "downloads/10_com.Dreamqiu.parsecs.release.1.2.rpk",
+      "versionCode": 120,
       "updatelogs": [
+        {
+          "version": "1.2",
+          "content": "新增生存模式；\n修复事件页不出现选项的bug"
+        },
         {
           "version": "1.1.1",
           "content": "修复点开远征页面重启的bug"
@@ -147,15 +175,25 @@
       ]
     },
     "xmb11nfc": {
-      "version": "1.1.1",
-      "file_name": "downloads/10_com.Dreamqiu.parsecs.release.1.1.1.rpk",
-      "versionCode": 111
+      "version": "1.2",
+      "file_name": "downloads/10_com.Dreamqiu.parsecs.release.1.2.rpk",
+      "versionCode": 120,
+      "updatelogs": [
+        {
+          "version": "1.2",
+          "content": "新增生存模式；\n修复事件页不出现选项的bug"
+        }
+      ]
     },
     "xmb9p": {
-      "version": "1.1.1",
-      "file_name": "downloads/pro_com.Dreamqiu.parsecs.release.1.1.1.rpk",
-      "versionCode": 111,
+      "version": "1.2",
+      "file_name": "downloads/pro_com.Dreamqiu.parsecs.release.1.2.rpk",
+      "versionCode": 120,
       "updatelogs": [
+        {
+          "version": "1.2",
+          "content": "新增生存模式；\n修复事件页不出现选项的bug"
+        },
         {
           "version": "1.1.1",
           "content": "修复关于页和飞船页花屏bug"
@@ -163,10 +201,14 @@
       ]
     },
     "xmb9": {
-      "version": "1.1.1",
-      "file_name": "downloads/9_com.Dreamqiu.parsecs.release.1.1.1.rpk",
-      "versionCode": 111,
+      "version": "1.2",
+      "file_name": "downloads/9_com.Dreamqiu.parsecs.release.1.2.rpk",
+      "versionCode": 120,
       "updatelogs": [
+        {
+          "version": "1.2",
+          "content": "新增生存模式；\n修复事件页不出现选项的bug"
+        },
         {
           "version": "1.1.1",
           "content": "修复点开远征页面重启的bug"
@@ -174,9 +216,15 @@
       ]
     },
     "vivowgt2": {
-      "version": "1.1",
-      "file_name": "downloads/com.Dreamqiu.parsecs.release.production.1.1.rpk",
-      "versionCode": 110
+      "version": "1.2",
+      "file_name": "downloads/vivo_com.Dreamqiu.parsecs.release.1.2.rpk",
+      "versionCode": 120,
+      "updatelogs": [
+        {
+          "version": "1.2",
+          "content": "新增生存模式；\n修复事件页不出现选项的bug"
+        }
+      ]
     }
   },
   "ext": {}
